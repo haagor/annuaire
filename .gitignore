@@ -1,0 +1,8 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+.idea
+poo_ihm_exemples.sublime-project
+poo_ihm_exemples.sublime-workspace
